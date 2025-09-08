@@ -17,3 +17,4 @@ com\example\UserRequestDTO.class
 com\example\LoginRequest.class
 com\example\UserController.class
 com\example\ExpenseController.class
+com\example\HomeController.class
